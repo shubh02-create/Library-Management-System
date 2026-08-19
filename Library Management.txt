@@ -1,0 +1,188 @@
+Welcome to the Library Management System
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 8
+No members registered.
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 2
+Enter Member Name: Klien Morati
+Enter Contact Number: 7994278901
+Member registered successfully! Member ID: 1
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 2
+Enter Member Name: Natsu Dragonile  
+Enter Contact Number: 9847023871
+Member registered successfully! Member ID: 2
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 3
+Enter Book ID to issue: 104
+Enter Member ID: 1
+Book "Atomic Habits" issued to Klien Morati successfully!
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 3
+Enter Book ID to issue: 103
+Enter Member ID: 2
+Book "The Hobbit" issued to Natsu Dragonile successfully!
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 4
+Enter Book ID to return: 103
+Enter Member ID: 2
+Book returned successfully!
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 5
+Enter title (or part of it) to search: 1984
+
+ID    Title                       Author              Total   Available 
+------------------------------------------------------------------------
+102   1984                        George Orwell       2       2         
+
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 6
+Enter author (or part of name) to search: James Clear
+
+ID    Title                       Author              Total   Available 
+------------------------------------------------------------------------
+104   Atomic Habits               James Clear         3       2         
+
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 7
+
+ID    Title                       Author              Total   Available 
+------------------------------------------------------------------------
+100   The Alchemist               Paulo Coelho        3       3         
+101   Harry Potter and the Philosopher's Stone J.K. Rowling        2       2         
+102   1984                        George Orwell       2       2         
+103   The Hobbit                  J.R.R. Tolkien      1       1         
+104   Atomic Habits               James Clear         3       2         
+
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 8
+
+ID    Name                    Contact         
+----------------------------------------------
+1     Klien Morati            7994278901      
+2     Natsu Dragonile         9847023871      
+
+
+============ LIBRARY MANAGEMENT SYSTEM ============
+1. Add New Book
+2. Add New Member
+3. Issue Book
+4. Return Book
+5. Search Book by Title
+6. Search Book by Author
+7. Display All Books
+8. Display All Members
+9. Exit
+=====================================================
+Enter your choice: 0 
+Exiting... Thank you for using the system!
